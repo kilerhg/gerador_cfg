@@ -1,4 +1,4 @@
-# MyCalc-Python
+# CFG GENERATOR CSGO
 
 ## Descrição
 

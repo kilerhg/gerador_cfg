@@ -9,7 +9,7 @@ A CS:GO cfg generator
 ### Instalando
 Clone este repositorio:
 
-```git clone git clone https://github.com/kilerhg/gerador_cfg.git```
+```git clone https://github.com/kilerhg/gerador_cfg.git```
 
 Entre no repositorio:
 cd gerador_cfg

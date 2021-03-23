@@ -7,6 +7,12 @@ A CS:GO cfg generator
 ## Como Usar
 
 ### Instalando
+Clone este repositorio:
+
+```git clone git clone https://github.com/kilerhg/gerador_cfg.git```
+
+Entre no repositorio:
+cd gerador_cfg
 
 Instalar Requisitos:
 ```pip install requirements.txt```

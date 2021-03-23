@@ -15,7 +15,7 @@ Entre no repositorio:
 cd gerador_cfg
 
 Instalar Requisitos:
-```pip install requirements.txt```
+```pip install -r requirements.txt```
 
 ## Abrindo
 

@@ -95,5 +95,3 @@ cfg = input('Digite o nome que deseja para cfg: ')
 
 CriarCfg(steam,cfg,True,True)
 
-
-

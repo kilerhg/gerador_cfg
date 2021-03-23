@@ -25,10 +25,10 @@ Abrir o Cmd ou PowerShell Na pasta e rodar o comando: ```python main.py```
 
 - [x] Desenvolver a ideia
 - [x] Prototipagem
-- [ ] Estudo biblioteca OS
-- [ ] criar funções que buscam nomes e pastas e arquivos
-- [ ] criar funções que mandar e recebam requests com nomes
-- [ ] limpar dados e separar
+- [x] Estudo biblioteca OS
+- [x] criar funções que buscam nomes e pastas e arquivos
+- [x] criar funções que mandar e recebam requests com nomes
+- [x] limpar dados e separar
 - [ ] criar interface basica
 - [ ] criar ligação entre back e front
 - [ ] Lapidar projeto

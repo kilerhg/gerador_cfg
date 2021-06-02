@@ -10,4 +10,4 @@ PySide2==5.15.2
 requests==2.25.1
 shiboken2==5.15.2
 soupsieve==2.2.1
-urllib3==1.26.4
+urllib3==1.26.5
